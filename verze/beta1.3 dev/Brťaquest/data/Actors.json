@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Brťa","characterIndex":0,"characterName":"Brťa","classId":1,"equips":[1,0,2,3,0],"faceIndex":1,"faceName":"Brťa","traits":[],"initialLevel":1,"maxLevel":99,"name":"Brťa","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Tatabrťa","characterIndex":0,"characterName":"Tatabrťa","classId":2,"equips":[5,6,0,3,4],"faceIndex":0,"faceName":"Tatabrťa","traits":[],"initialLevel":5,"maxLevel":99,"name":"Tatabrťa","nickname":"Brťatata","note":"","profile":""}
+]

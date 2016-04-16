@@ -1,0 +1,3 @@
+Profile,Name,Folder,Unit,Start Time,Loop Start,Loop End,Loop Length
+Battle1_normal,Battle1,bgm,samples,0,44100,2300000,
+Battle1_short,Battle1,bgm,seconds,0,1,,3

@@ -1,0 +1,36 @@
+@font-face {
+    font-family: GameFont;
+    src: url("mplus-1m-regular.ttf");
+}
+@font-face {
+    font-family: osu;
+    src: url("Aller.ttf");
+}
+@font-face {
+    font-family: osu-light;
+    src: url("Aller_Lt.ttf");
+}
+@font-face {
+    font-family: exo;
+    src: url("Exo2.0-Light.otf");
+}
+@font-face {
+    font-family: 8bit;
+    src: url("prstartk.ttf");
+}
+@font-face {
+    font-family: comicsans;
+    src: url("comic.ttf");
+}
+@font-face {
+    font-family: din;
+    src: url("DIN Medium.ttf");
+}
+@font-face {
+    font-family: ut;
+    src: url("DTM-Sans.otf");
+}
+@font-face {
+    font-family: led;
+    src: url("LEDCalculator.ttf");
+}
