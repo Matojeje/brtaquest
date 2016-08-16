@@ -52,7 +52,7 @@
 
     var parameters = PluginManager.parameters('EnemyBook');
     var unknownData = String(parameters['Unknown Data'] || '??????');
-
+	
     var _Game_Interpreter_pluginCommand =
             Game_Interpreter.prototype.pluginCommand;
     Game_Interpreter.prototype.pluginCommand = function(command, args) {
@@ -78,6 +78,20 @@
         }
     };
 
+	//-----------------------------------------------------------------------------------------------
+	// Custom																						-
+	//-------------------------------------------------------------------------------------------	-
+	var _Scene_Menu_prototype_createCommandWindow = Scene_Menu.prototype.createCommandWindow;	-	-
+	Scene_Menu.prototype.createCommandWindow = function () {									-	-
+	_Scene_Menu_prototype_createCommandWindow.call(this);										-	-
+	this._commandWindow.setHandler(‘enemy_book’, function () {									-	-
+	SceneManager.push(Scene_EnemyBook);															-	-
+	});																							-	-
+	};																							-	-
+    //-------------------------------------------------------------------------------------------	-
+																									-
+	//-----------------------------------------------------------------------------------------------
+	
     Game_System.prototype.addToEnemyBook = function(enemyId) {
         if (!this._enemyBookFlags) {
             this.clearEnemyBook();
