@@ -1,0 +1,24 @@
+#Co je offline reim?
+
+Hraní v reimu offline znamená stáhnutí všech souborù hry a spuštìní hry lokálnì. Hra se pùvodnì vydávala jenom v offline reimu, jako 300 MB a pùl-gigabytové archivy. Pro zrychlení stahování se Braquest od verze 1.2.1 vydává jako online hra, co navíc rozšiøuje hru na všechny platformy a prohlíeèe, které podporují HTML5.
+
+##Pøíklady uití offline reimu:
+* Chci z nìjakého dùvodu hrát Braquest u moøe.
+* Hra je v prohlíeèi moc pomalá.
+* Mám omezenı internet a chci si hru stáhnout pøedem.
+* Nechci èekat, a mùj prohlíeè zase stáhne všechny soubory.*
+* Nemám HTML5 prohlíeè.
+
+(* Ve verzi 1.3 byl vypnutı preloader, kterı sice doèasnì øešil tyhle problémy, ale spuštìní hry mohlo trvat a 20 minut.)
+
+
+##Verze offline reimu:
+
+Záleí na stáhnuté verzi. Nejnovìjší verze je Beta 1.3.1 - všechny podverze Bety 1.3 se ukládají ve sloce \verze\beta1.3 dev\ a nové soubory podverze nahrazují staré.
+
+
+#Jak pøehrát Braquest b1.2.1+ v offline reimu
+
+Návod pro stáhnutí napø. verze Beta 1.3.X:
+
+1. Stáhni si 
