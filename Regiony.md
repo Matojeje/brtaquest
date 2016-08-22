@@ -4,6 +4,10 @@
 
 **050.** Křoví: Znečištění vzduchu. `Common Event `  **`#0013`**
 
+**083.** Region je střed kamery při autoscrollu.
+
+**085.** Region je střed kamery při autoscrollu.
+
 
 ##100-199
 
