@@ -13,4 +13,4 @@ Pro *okamžité spuštění* zmáčkni Windows+R a napiš:
 `chrome --user-data-dir="h:\chromedir\temp" --disable-web-security https://cdn.rawgit.com/Matojeje/brtaquest/master/verze/beta1.3%20dev/Br%C5%A5aquest/index.html`
 
 
-V případě, že se hra nenačítá nebo vyhodí chybu 404, přepni na druhý server přepsáním **cdn** na začítku adresy na **www**.
+V případě, že se hra nenačítá nebo vyhodí chybu 404, přepni na druhý server přepsáním **cdn** na začátku adresy na **www**.
